@@ -1,1 +1,1 @@
-console.log("No logic yet");
+console.log("Home page redirect successful!")
