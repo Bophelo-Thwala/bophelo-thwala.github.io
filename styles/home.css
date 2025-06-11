@@ -1,14 +1,61 @@
 body {
-    margin-left: 10px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #fff;
 }
 
-header {
-    background-color: #727171;
-    border-color: #000000;
-    border-width: 10px;
+
+.NavigationBar {
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    border-color: #000;
+    border-width: 3px;
+    border-left: #000;
+    border-right: #000;
+
 }
 
-p {
-    font-size: 50px;
-    font-weight: bold;
+.NavigationContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-color: #000;
+    border-width: 3px;
+}
+
+.Navigation-Links {
+    display: flex;
+    align-items: center;
+    gap: 10rem;
+    border-color: #000;
+    border-width: 3px;
+}
+
+.Navigation-Links a {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s;
+}
+
+.Navigation-Links a:hover {
+    color: #007bff;
+}
+
+.Hero {
+    text-align: center;
+}
+
+.Hero-Buttons {
+    text-align: center;
+}
+
+#ViewProjectsButton {
+    font-weight: 500;
+}
+
+#ContactButton {
+    margin-left: 20px;
 }
