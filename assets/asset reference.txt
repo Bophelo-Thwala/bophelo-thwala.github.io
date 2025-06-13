@@ -1,0 +1,101 @@
+Clean Code: [
+
+    from: Flaticon
+
+    link: https://flaticon.com/free-icon/clean-code_8297102
+
+    author: juicy_fish
+
+    author_link: https://www.flaticon.com/authors/juicy-fish
+
+]
+
+Modern and Creative Design: [
+    
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/creativ-design_1875834
+
+    author: Eucalyp
+
+    author_link: https://www.flaticon.com/authors/eucalyp
+
+]
+
+Perform: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/good-feedback_9732828
+
+    author: juicy_fish
+
+    author_link: https://www.flaticon.com/authors/juicy-fish
+
+]
+
+Security: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/cyber-security_1797588
+
+    author: juicy_fish
+
+    author_link: https://www.flaticon.com/authors/juicy-fish
+
+]
+
+Scalability: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/scalability_13063201
+
+    author: Uniconlabs
+
+    author_link: https://www.flaticon.com/authors/uniconlabs
+
+]
+
+Maintenance: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/maintainance_12112013
+
+    author: Vectorsclub
+
+    author_link: https://www.flaticon.com/authors/vectorsclub
+
+]
+
+Python: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/python_3098090
+
+    author: flat icons
+
+    author_link: https://www.flaticon.com/authors/flat-icons
+
+]
+
+JavaScript: []
+
+Java: []
+
+C++: []
+
+C: []
+
+C#: []
+
+Kotlin: []
+
+Swift: []
+
+Dart: []
+
+Ruby: []
