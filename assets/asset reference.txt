@@ -82,20 +82,108 @@ Python: [
 
 ]
 
-JavaScript: []
+JavaScript: [
 
-Java: []
+    from: Flaticon
 
-C++: []
+    link: https://www.flaticon.com/free-icon/js_5968292
 
-C: []
+    author: Freepik
 
-C#: []
+    author_link: https://www.flaticon.com/authors/freepik
 
-Kotlin: []
+]
 
-Swift: []
+Java: [
 
-Dart: []
+    from: Flaticon
 
-Ruby: []
+    link: https://www.flaticon.com/free-icon/java_226777
+
+    author: Freepik
+
+    author_link: https://www.flaticon.com/authors/freepik
+
+]
+
+C++: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/c_6132222
+
+    author: Freepik
+
+    author_link: https://www.flaticon.com/authors/freepik
+
+]
+
+C: [
+
+    from: Icons-For-Free
+
+    link: https://icons-for-free.com/devicon-icons-set-page-2/
+
+    author: Devicon
+
+    author_link: https://icons-for-free.com/icons-author-Devicon/
+
+]
+
+C#: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/c-sharp_6132221
+
+    author: Freepik
+
+    author_link: https://www.flaticon.com/authors/freepik
+   
+]
+
+Kotlin: [
+
+    from: Icons-For-Free
+
+    link; https://icons-for-free.com/kotlin-1336519699163124172/
+
+    author: Log-z
+
+    author_link: https://icons-for-free.com/icons-author-Log-z/
+
+]
+
+Swift: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/swift_4008395
+
+    author: Fathema Khanom
+
+    author_link: https://www.flaticon.com/authors/fathema-khanom
+
+]
+
+Dart: [
+
+    from: UXWing
+
+    link: https://uxwing.com/dart-programming-language-icon/
+
+    author: Unknown
+
+    author_link: unknown
+]
+
+Ruby: [
+
+    from: Icons-For-Free
+
+    link: https://icons-for-free.com/search/
+
+    author: Devicon
+
+    author_link: https://icons-for-free.com/icons-author-Devicon/
+]
