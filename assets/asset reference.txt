@@ -146,7 +146,7 @@ Kotlin: [
 
     from: Icons-For-Free
 
-    link; https://icons-for-free.com/kotlin-1336519699163124172/
+    link: https://icons-for-free.com/kotlin-1336519699163124172/
 
     author: Log-z
 
@@ -186,4 +186,27 @@ Ruby: [
     author: Devicon
 
     author_link: https://icons-for-free.com/icons-author-Devicon/
+]
+
+Typescript: [
+
+    from: Flaticon
+
+    link: https://www.flaticon.com/free-icon/swift_4008395
+
+    author: Freepik
+
+    author_link: https://www.flaticon.com/authors/freepik
+]
+
+Rust: [
+
+    from: Icons-For-Free
+
+    link: https://icons-for-free.com/search/
+
+    author: Simple Icons
+
+    author_link: https://icons-for-free.com/icons-author-Simple+Icons/
+
 ]
