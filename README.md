@@ -1,12 +1,12 @@
-## JD In Tech Website
+# JD In Tech Website
 
 - This is my portofolio website
 
-## Home
+# Home
 
 - This displays the title, about, my programming values, languages and technologies that I have experience with.
 
-# Programming Values: 
+##Programming Values: 
 
 * Clean Code 
 * Modern and Creative design
@@ -15,7 +15,7 @@
 * Scalability
 * Maintenance
 
-# Programming Languages
+## Programming Languages
 
 * Python
 * JavaScript
