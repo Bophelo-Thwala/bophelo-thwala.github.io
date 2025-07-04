@@ -33,13 +33,13 @@ body {
     gap: 10rem;
     border-color: #000;
     border-width: 3px;
-    cursor: pointer;
 }
 
 .Navigation-Links a {
     text-decoration: none;
     color: #333;
     transition: color 0.3s;
+    cursor: pointer;
 }
 
 .Navigation-Links a:hover {
