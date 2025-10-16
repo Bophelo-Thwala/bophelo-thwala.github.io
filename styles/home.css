@@ -202,3 +202,26 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+@media (max-width: 768px) {
+    .Navigation-Links {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .Values {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .Navigation-Links {
+        gap: 0.5rem;
+    }
+
+    .Values-Card, .Language-Card {
+        width: 100%;
+        height: auto;
+    }
+}
