@@ -46,6 +46,15 @@ body {
     color: #007bff;
 }
 
+#Logo {
+    width: 100px;
+    height: 100px;
+}
+
+#Logo:hover {
+    cursor: pointer;
+}
+
 .Hero {
     text-align: center;
 }
